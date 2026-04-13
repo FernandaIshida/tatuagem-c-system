@@ -1,0 +1,10 @@
+# Executáveis
+app
+app.exe
+
+# Arquivos gerados pelo programa
+analysis.csv
+
+# Arquivos de build / temporários
+*.o
+*.out
